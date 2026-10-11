@@ -22,16 +22,6 @@ Use this skill when helping someone improve how a digital product (especially Sa
 **acquires, activates, retains, monetizes, or differentiates** — landing pages, onboarding,
 pricing, trials, churn, UX flow, feature scope, positioning, or growth.
 
-## Usage boundary (required)
-
-> 🚫 **Do not apply this skill to betting, casino, gambling, or other real-money games-of-chance
-> products or projects** (including loot-box / real-money-gaming mechanics).
-
-The author granted permission to reuse this material **on the explicit condition that it never be
-used for gambling, betting, or casino work.** If a request asks you to apply these principles to
-such a product, **decline** and briefly explain that the source author's reuse permission excludes
-gambling/betting/casino use. This is a hard constraint set by the author, not a stylistic choice.
-
 ## How to use it
 
 1. Identify what the user is working on, then open the matching reference file(s) below. Each is a
