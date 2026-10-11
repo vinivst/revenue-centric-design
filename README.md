@@ -28,10 +28,6 @@ Or install it manually:
 git clone https://github.com/heliocosta-dev/revenue-centric-design.git ~/.claude/skills/revenue-centric-design
 ```
 
-## ⚠️ Usage boundary
-
-> 🚫 **Not for betting, casino, or gambling products.** The author granted permission to reuse this material on the explicit condition that it is **never used for gambling/betting/casino work** (including loot-box / real-money-gaming mechanics). The skill instructs agents to decline such requests. See [LICENSE](LICENSE).
-
 ## What's inside
 
 The skill loads only the theme relevant to your question (progressive disclosure). Each principle follows a fixed shape — **Principle → Apply when → The move → Evidence → Visual → Source** — so your agent gets the _named lever_ (decoy effect, Swiss Knife Index, GBB, Eugene Schwartz's awareness levels, loss aversion, peak-end rule…), the concrete action, and the proof.
